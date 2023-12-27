@@ -31,7 +31,6 @@ ScrollTrigger.refresh();
 }
 loco()
 
-
 gsap.to("#page>video",{
     scrollTrigger:{
         trigger:`#page>video`,
